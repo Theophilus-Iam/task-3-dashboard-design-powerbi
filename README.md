@@ -39,6 +39,5 @@ This process improved my understanding of dashboard design principles, KPI selec
 * Expand dashboard adoption to support data-driven business decisions across departments.
 
 **Outcome**
-The final dashboard provides stakeholders with an interactive and user-friendly view of business performance. By combining KPIs, time-series analysis, comparative visuals, and interactive filters, the dashboard supports monitoring, exploration, and strategic decision-making while following dashboard design best practices.
 
-This version reads like someone who **actually completed the project, encountered problems, learned from them, and delivered a business-focused solution**, which is exactly the impression you want to leave.
+The final dashboard provides stakeholders with an interactive and user-friendly view of business performance. By combining KPIs, time-series analysis, comparative visuals, and interactive filters, the dashboard supports monitoring, exploration, and strategic decision-making while following dashboard design best practices.
